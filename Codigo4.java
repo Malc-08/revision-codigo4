@@ -70,7 +70,7 @@ public class Codigo4 {
                 System.out.println("Empate");
             } else {
                 int g = 2;
-                switch (j1) { // Corrección: uso de cadenas en minúsculas y casos corregidos
+                switch (j1) { 
                     case "piedra":
                     	// Cambié "tijeras" por "tijera"
                         if (j2.equals("tijera")) {
